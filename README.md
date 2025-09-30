@@ -1,4 +1,4 @@
-# Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
+# Ex:04   FIT ARMA MODEL FOR TIME SERIES
 ## Date: 30-09-2025
 
 ### AIM:
@@ -27,7 +27,8 @@ plot_acf and plot_pacf.
 ### PROGRAM:
 
 ```
-
+#Developed By: MONISH N
+#Reg No: 212223240097
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
